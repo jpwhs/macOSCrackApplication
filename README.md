@@ -34,7 +34,7 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 
 
 
-## )非同意(破解方法
+## )非通用(破解方法
 
 1. ；请阅读启动dmg时的说明
 2. 。欣赏之
