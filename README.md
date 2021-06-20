@@ -26,18 +26,18 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 
 
 
-## )用通(法方解破
+## )通用(破解方法
 
-1. ；ppa该次一动启里 "序程用应" 在后然，装安行进 "snoitacilppA" 到ppa动拖先
-2. ；ppa动启新重后然，"kcarC xxxx" 行执击双，骤步一这有才时序程的 "kcarC xxxx" 叫个有里包装安当
-3. 。之赏欣
+1. ；先拖动app到“Applications”进行安装。然后在“应用程序”里启动一次改app
+2. ；当安装包里有个叫“xxxx CracK”的程序时才有这一步骤，双击执行“xxxx CracK“ 然后重新启动App
+3. 欣赏之
 
 
 
-## )用通非(法方解破
+## )非同意(破解方法
 
-1. ；明说的时gmd动启读阅请
-2. 。之赏欣
+1. ；请阅读启动dmg时的说明
+2. 。欣赏之
 
 
 
