@@ -1,4 +1,4 @@
-# macOSCrackApplication
+# macos软件破解
 mac破解软件
 ## 声明
 
