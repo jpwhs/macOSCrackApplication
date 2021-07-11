@@ -46,17 +46,17 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 | App                      | 推荐数值 | 简介                                     | 来源                                                         |
 | ------------------------ | -------- | ---------------------------------------- | ------------------------------------------------------------ |
 | Moom 3.2.22 for Mac      | ☆★★★★    | 窗口尺寸大小位置调整工具                 | [下载](http://macqq.com/file?postid=3460)     |
-| DropDMG 3.6.2 多国语言版 | ★★★★★    | 苹果系统专业DMG文件打包工具              | [下载](http://www.ansinshopping.com//soft/3245/DropDMG.dmg)  |
-| myBase Desktop 7.3.5     | ☆☆☆☆★    | 知识管理个人数据管理工具                 | [下载](http://www.ansinshopping.com//soft/3239/myBase.dmg)   |
-| XtraFinder               | ★★★★★    | XtraFinder向 Finder 添加标签和额外功能： | [下载](http://www.ansinshopping.com//soft/3229/XtraFinder%201.6.1%20crack.dmg) |
-| UltraEdit 20.00.0.32     | ★★★★★    | 强大文本编辑器工具                       | [下载](http://www.ansinshopping.com//soft/3228/UltraEdit.dmg) |
-| Numi 3.30.692            | ★★★★★    | 计算与文本相结合的计算器工具             | [下载](http://www.ansinshopping.com//soft/3223/Numi.dmg)     |
-| Better 5.1               | ★★★★★    | 优秀文件解压缩软件                       | [下载](http://www.ansinshopping.com//soft/3222/BetterZip.dmg) |
-| Sublime Text 4.0         | ★★★★★    | 代码编辑器软件                           | [下载](http://www.ansinshopping.com//soft/3240/%20Sublime%20Text.dmg) |
-| Xmind 8 Update 6 v3.7.8  | ★★★★★    | Mac思维导图软件                          | [下载](http://www.ansinshopping.com//soft/3110/XMind1.dmg)   |
-| StarUML 4.0.1            | ★★★★★    | UML类图建模工具                          | [下载](http://www.ansinshopping.com//soft/3109/StarUML1.dmg) |
-| Navicat Premium 15.0.27  | ☆☆★★★    | 多重数据库管理工具                       | [下载](http://www.ansinshopping.com//soft/3108/Navicat%20Premium1.dmg) |
-| Jump Desktop             | ☆★★★★    | Mac远程桌面连接工具                      | [下载](http://www.ansinshopping.com//soft/3107/Jump%20Desktop1.dmg) |
-| Charles 4.6.2            | ☆☆☆☆★    | HTTP代理及抓包工具                       | [下载](http://www.ansinshopping.com//soft/3106/Charles1.dmg) |
-| Gem Menu for OneNote菜单 | ☆☆★★★    | OneNote菜单                              | [下载](http://www.ansinshopping.com//soft/3105/Gem%20Menu%20for%20OneNote.dmg) |
-| 010 Eitor                | ☆☆★★★    | 专业文本编辑器                           | [下载](http://www.ansinshopping.com//soft/3104/010%20Editor.dmg) |
+| DropDMG 3.6.2 多国语言版 | ★★★★★    | 苹果系统专业DMG文件打包工具              | [下载](http://macqq.com/file?postid=3452)  |
+| myBase Desktop 7.3.5     | ☆☆☆☆★    | 知识管理个人数据管理工具                 | [下载](http://macqq.com/file?postid=3432)   |
+| XtraFinder               | ★★★★★    | XtraFinder向 Finder 添加标签和额外功能： | [下载](http://macqq.com/file?postid=3385) |
+| UltraEdit 20.00.0.32     | ★★★★★    | 强大文本编辑器工具                       | [下载](http://macqq.com/file?postid=3384) |
+| Numi 3.30.692            | ★★★★★    | 计算与文本相结合的计算器工具             | [下载](http://macqq.com/file?postid=3351)     |
+| Better 5.1               | ★★★★★    | 优秀文件解压缩软件                       | [下载](http://macqq.com/file?postid=3350) |
+| Sublime Text 4.0         | ★★★★★    | 代码编辑器软件                           | [下载](http://macqq.com/file?postid=3079) |
+| Xmind 8 Update 6 v3.7.8  | ★★★★★    | Mac思维导图软件                          | [下载](http://macqq.com/file?postid=3028)   |
+| StarUML 4.0.1            | ★★★★★    | UML类图建模工具                          | [下载](http://macqq.com/file?postid=3027) |
+| Navicat Premium 15.0.27  | ☆☆★★★    | 多重数据库管理工具                       | [下载](http://macqq.com/file?postid=3026) |
+| Jump Desktop             | ☆★★★★    | Mac远程桌面连接工具                      | [下载](http://macqq.com/file?postid=3025) |
+| Charles 4.6.2            | ☆☆☆☆★    | HTTP代理及抓包工具                       | [下载](http://macqq.com/file?postid=3024) |
+| Gem Menu for OneNote菜单 | ☆☆★★★    | OneNote菜单                              | [下载](http://macqq.com/file?postid=3023) |
+| 010 Eitor                | ☆☆★★★    | 专业文本编辑器                           | [下载](http://macqq.com/file?postid=3022) |
