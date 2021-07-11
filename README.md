@@ -45,7 +45,7 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 
 | App                      | 推荐数值 | 简介                                     | 来源                                                         |
 | ------------------------ | -------- | ---------------------------------------- | ------------------------------------------------------------ |
-| Moom 3.2.22 for Mac      | ☆★★★★    | 窗口尺寸大小位置调整工具                 | [下载](http://www.ansinshopping.com//soft/3246/Moom.dmg)     |
+| Moom 3.2.22 for Mac      | ☆★★★★    | 窗口尺寸大小位置调整工具                 | [下载](http://macqq.com/file?postid=3460)     |
 | DropDMG 3.6.2 多国语言版 | ★★★★★    | 苹果系统专业DMG文件打包工具              | [下载](http://www.ansinshopping.com//soft/3245/DropDMG.dmg)  |
 | myBase Desktop 7.3.5     | ☆☆☆☆★    | 知识管理个人数据管理工具                 | [下载](http://www.ansinshopping.com//soft/3239/myBase.dmg)   |
 | XtraFinder               | ★★★★★    | XtraFinder向 Finder 添加标签和额外功能： | [下载](http://www.ansinshopping.com//soft/3229/XtraFinder%201.6.1%20crack.dmg) |
