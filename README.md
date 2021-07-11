@@ -45,6 +45,12 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 
 | App                      | 推荐数值 | 简介                                     | 来源                                                         |
 | ------------------------ | -------- | ---------------------------------------- | ------------------------------------------------------------ |
+| Alfred 4 Powerpack       | ☆★★★★    | 程序快速启动工具                      | [下载](http://macqq.com/file?postid=3538) |
+| MDB / ACCDB              | ☆☆☆☆★      |   查看器                          |     [下载](http://macqq.com/file?postid=3537) |
+| tagLyst                  | ☆☆★★★    | 文件资料管理系统                              | [下载](http://macqq.com/file?postid=3536) |
+| Dash 6.0.6               | ☆☆★★★    | API文档浏览器和代码片段管理器                           | [下载](http://macqq.com/file?postid=3509) |
+| AppDelete                  | ☆☆★★★    | Mac应用程序卸载工具                              | [下载](http://macqq.com/file?postid=3508) |
+| Bartender              | ☆☆★★★    | 菜单栏管理优化工具                           | [下载](http://macqq.com/file?postid=3507) |
 | Moom 3.2.22 for Mac      | ☆★★★★    | 窗口尺寸大小位置调整工具                 | [下载](http://macqq.com/file?postid=3460)     |
 | DropDMG 3.6.2 多国语言版 | ★★★★★    | 苹果系统专业DMG文件打包工具              | [下载](http://macqq.com/file?postid=3452)  |
 | myBase Desktop 7.3.5     | ☆☆☆☆★    | 知识管理个人数据管理工具                 | [下载](http://macqq.com/file?postid=3432)   |
@@ -60,3 +66,4 @@ function(chd){enc(chd);});}}};enc(document.querySelector(".repository-content"))
 | Charles 4.6.2            | ☆☆☆☆★    | HTTP代理及抓包工具                       | [下载](http://macqq.com/file?postid=3024) |
 | Gem Menu for OneNote菜单 | ☆☆★★★    | OneNote菜单                              | [下载](http://macqq.com/file?postid=3023) |
 | 010 Eitor                | ☆☆★★★    | 专业文本编辑器                           | [下载](http://macqq.com/file?postid=3022) |
+
